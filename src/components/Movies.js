@@ -20,6 +20,18 @@ function Movies() {
             <Wrap>
                 <img src="https://img1.hotstarext.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/3952/1413952-i-54fd63bb80e5" />
             </Wrap>
+            <Wrap>
+                <img src="https://img1.hotstarext.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/1965/1531965-h-94fa6a9e7f52" />
+            </Wrap>
+            <Wrap>
+                <img src="https://img1.hotstarext.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/3779/1553779-i-ed41b6853d74" />
+            </Wrap>
+            <Wrap>
+                <img src="https://img1.hotstarext.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/850/1550850-h-c8fdbfad4290" />
+            </Wrap>
+            <Wrap>
+                <img src="https://img1.hotstarext.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/4390/1554390-h-0ea92727c902" />
+            </Wrap>
         </Content>
     </Container>
   )

@@ -83,7 +83,7 @@ const Controls = styled.div`
 
 const PlayButton = styled.button`
     border-radius: 4px;
-    font=size: 15px;
+    font-size: 15px;
     padding: 0px 24px;
     margin-right: 22px;
     display: flex;
